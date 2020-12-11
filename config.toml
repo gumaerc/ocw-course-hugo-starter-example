@@ -4,7 +4,7 @@ title = "Hugo Single Course Prototype"
 
 [module]
   [[module.imports]]
-    path = "github.com/mitodl/ocw-course-hugo-theme"
+    path = "github.com/gumaerc/ocw-course-hugo-theme-example"
   [[module.mounts]]
     source = "layouts"
     target = "layouts"

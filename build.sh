@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THEME_PATH="_vendor/github.com/mitodl/ocw-course-hugo-theme"
+THEME_PATH="_vendor/github.com/gumaerc/ocw-course-hugo-theme-example"
 PDFJS_PATH="pdfjs"
 
 # init or update the pdfjs submodule and install our local dependencies
